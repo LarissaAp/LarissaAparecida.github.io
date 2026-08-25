@@ -17,7 +17,7 @@
 
 ## 🎯 Objetivo
 
-Construir minha carreira na área de Tecnologia da Informação, com foco inicial em Desenvolvimento Web, e continuar evoluindo meus conhecimentos por meio de estudos e projetos práticos.
+Busco minha primeira oportunidade ou estágio em Desenvolvimento Web/Front-end, enquanto continuo desenvolvendo meus conhecimentos em programação por meio de estudos e projetos práticos.
 
 ## 📞 Contato
 
