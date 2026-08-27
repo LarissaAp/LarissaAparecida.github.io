@@ -9,11 +9,28 @@
 
 ## 📚 Atualmente estudando
 
+- JavaScript
 - Lógica de programação
+- Desenvolvimento Web
+- Git e GitHub
+
+## 💻 Competências Técnicas
+
 - HTML
 - CSS
 - JavaScript
-- Git e GitHub
+- DOM
+- LocalStorage
+- Eventos em JavaScript
+
+  ### 🤝 Competências Comportamentais
+
+- Resolução de problemas
+- Aprendizado contínuo
+- Proatividade
+- Comunicação
+- Organização
+- Trabalho em equipe
 
 ## 🎯 Objetivo
 
