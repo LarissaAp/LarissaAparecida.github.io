@@ -9,7 +9,7 @@
 
 ## 📚 Atualmente estudando
 
-- Lógica de programação
+- Programação lógica
 - JavaScript
 - Desenvolvimento Web
 - Git e GitHub
