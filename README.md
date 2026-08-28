@@ -5,12 +5,12 @@
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 💻 Interessada em Desenvolvimento Web
 - 🌱 Atualmente aprendendo programação e desenvolvendo meus primeiros projetos
-- 📚 Em busca de novos conhecimentos e oportunidades para evoluir na área de tecnologia
+- 📚 Em busca de novos conhecimentos para evoluir na área de tecnologia
 
 ## 📚 Atualmente estudando
 
-- JavaScript
 - Lógica de programação
+- JavaScript
 - Desenvolvimento Web
 - Git e GitHub
 
@@ -23,7 +23,7 @@
 - LocalStorage
 - Eventos em JavaScript
 
-  ### 🤝 Competências Comportamentais
+## 🤝 Competências Comportamentais
 
 - Resolução de problemas
 - Aprendizado contínuo
@@ -34,7 +34,7 @@
 
 ## 🎯 Objetivo
 
-Busco minha primeira oportunidade ou estágio em Desenvolvimento Web/Front-end, enquanto continuo desenvolvendo meus conhecimentos em programação por meio de estudos e projetos práticos.
+Busco minha primeira oportunidade ou estágio em Desenvolvimento Web/Front-end. Meu objetivo é continuar desenvolvendo meus conhecimentos em programação por meio de estudos e projetos práticos.
 
 ## 📞 Contato
 
