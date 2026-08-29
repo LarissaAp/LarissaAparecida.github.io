@@ -9,7 +9,7 @@
 
 ## 📚 Atualmente estudando
 
-- Programação lógica
+- Lógica de programação
 - JavaScript
 - Desenvolvimento Web
 - Git e GitHub
@@ -34,7 +34,7 @@
 
 ## 🎯 Objetivo
 
-Busco minha primeira oportunidade ou estágio em Desenvolvimento Web/Front-end. Meu objetivo é continuar desenvolvendo meus conhecimentos em programação por meio de estudos e projetos práticos.
+Busco minha primeira oportunidade ou estágio em Desenvolvimento Web. Meu objetivo é continuar desenvolvendo meus conhecimentos em programação por meio de estudos e projetos práticos.
 
 ## 📞 Contato
 
