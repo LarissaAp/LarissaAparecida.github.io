@@ -80,6 +80,14 @@ Para executar o projeto localmente, é necessário ter o Visual Studio Code inst
 
 Após abrir a pasta do projeto no Visual Studio Code, basta iniciar o Live Server pelo arquivo `index.html`. A aplicação será aberta no navegador por meio de um endereço local.
 
+# 🌐 Navegação SPA e publicação no GitHub Pages
+
+A aplicação utiliza navegação SPA (Single Page Application), com JavaScript e a API History do navegador, por meio de `history.pushState` e do evento `popstate`, para atualizar o conteúdo principal durante a navegação.
+
+O projeto mantém arquivos HTML para as páginas inicial, de projetos e de cadastro. Durante a publicação, o Vite gera a versão de produção, e o GitHub Actions envia os arquivos gerados na pasta `dist` para o GitHub Pages.
+
+O arquivo `index.html` localizado na raiz direciona o acesso inicial para a página principal, dentro da pasta `html`.
+
 # 🌿 Versionamento
 
 O projeto utiliza Git para controle de versão e segue uma organização baseada no GitFlow. A branch `main` é destinada às versões estáveis, enquanto a `develop` concentra o desenvolvimento contínuo. As novas funcionalidades são desenvolvidas em branches específicas, como `feature/funcionalidades`.
